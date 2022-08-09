@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "Cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/css/Table.css" />
+
+
+<body>
+
+
+
+    <h1>Cliente</h1>
+    <hr />
+    <div class="table-wrapper">
+
+        <form class="justify-content-evenly border-radius-5 " action="/cliente/searchclient" method="post">
+  
+                <label class="form-group" for="buscarcpf">Buscar CPF:</label>
+      
+                <input class="form-group" name="buscarcpf" type="text" placeholder="111.222.333-44" pattern="\d{3}\.\d{3}\.\d{3}-\d{2}" value="" />
+        
+                <input class="form-group btn2" type="submit" value="Buscar" />
+          
+        
+        </form>
+        <table class="fl-table">
+            <thead>
+                <tr>
+                    <th class="text-uppercase">ID</th>
+                    <th class="text-uppercase">Nome</th>
+                    <th class="text-uppercase">Editar</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in VetOnTrack.Controllers.FrontSupport.SelectListClient())
+                {
+                    <tr>
+                        <td>
+                            <span>@item.id_cliente</span>
+                        </td>
+                        <td>
+                            <span>@item.nome</span>
+                        </td>
+                        @if (item.id_acesso == 1)
+                        {
+                            <td></td>
+
+                        }
+                        else
+                        {
+
+                            <td>
+                                <a href="/cliente/@item.id_cliente/delete" class="btn btn-default">Deletar</a>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+
+
+</body>

@@ -1,0 +1,159 @@
+﻿@{
+    ViewData["Title"] = "Perfil";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    MetaDados.Funcionario func = ViewBag.Perfil;
+}
+
+<link rel="stylesheet" href="~/css/Table.css" />
+
+<div class="table-wrapper">
+
+    <div class="card overflow-hidden bg-light top-rad">
+
+        <div class="row no-gutters row-bordered row-border-light">
+            <table class="fl-table">
+                <thead>
+                    <tr>
+                        <th class="th-rad">
+                            <h1>
+                                Configurações de Conta
+                            </h1>
+                        </th>
+
+                    </tr>
+                </thead>
+            </table>
+
+            <div class="col-md-2 pt-0">
+                <div class="list-group list-group-flush account-settings-links">
+                    <a class="list-group-item list-group-item-action active" data-toggle="list" href="#account-acesso">Acesso</a>
+                    <a class="list-group-item list-group-item-action" data-toggle="list" href="#account-geral">Geral</a>
+                </div>
+            </div>
+            <div class="col-md-10">
+                <form action="perfil/update" method="post" class="needs-validation" novalidate>
+                    <div class="tab-content">
+                        <div class="tab-pane fade active bg-light show" id="account-acesso">
+                            <!--TAB Geral-->
+                            <div class="card-body">
+
+
+
+                                <div class="form-group">
+                                    <label class="form-label">Nova Senha(mínimo 8 caracteres)</label>
+                                    <input type="password" name="novaSenha" class="form-control">
+                                </div>
+
+
+
+                                <div class="form-group">
+                                    <label class="form-label">Insira Novamente</label>
+                                    <input type="password" name="confirmaSenha" class="form-control">
+                                </div>
+                            </div>
+
+
+
+                        </div>
+
+
+
+                        <!--TAB Info-->
+                        <div class="tab-pane bg-light fade" id="account-geral">
+                            <div class="card-body pb-2">
+                                <div class="form-row">
+                                    <div class="form-group col-md-6">
+                                        <label for="input_tel_1">Telefone 1</label>
+                                        <input type="text" class="form-control" id="input_tel_1" name="telefone_1" placeholder="(47) 00000-0000" pattern="\([0-9]{2}\)[0-9]{5}-[0-9]{4}" value="@func.telefone_1" required><!--Pattern-> máscara para o campo-->
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                        <label for="input_tel_1">Telefone 2</label>
+                                        <input type="text" class="form-control" id="input_tel_2" name="telefone_2" placeholder="(47) 00000-0000" pattern="\([0-9]{2}\)[0-9]{5}-[0-9]{4}" value="@func.telefone_2"><!--Pattern-> máscara para o campo-->
+                                    </div>
+                                </div>
+
+
+
+                                <div class="form-row">
+                                    <div class="form-group col-md-2">
+                                        <label for="input_cep">CEP</label>
+                                        <input type="text" class="form-control" id="input_cep" name="cep" placeholder="12345-123" pattern="\d{5}-\d{3}" value="@func.cep" required><!--Pattern-> máscara para o campo-->
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                        <label for="input_cidade">Cidade</label>
+                                        <input type="text" class="form-control" id="input_cidade" name="cidade" maxlength="50" value="@func.cidade" required>
+                                    </div>
+
+
+
+
+                                    <div class="form-group col-md-4">
+                                        <label for="input_estado">Estado</label>
+                                        <select id="input_estado" name="estado" class="form-control" required>
+                                            <option value="@func.estado">@func.estado</option>
+                                            <option value="AC">Acre</option>
+                                            <option value="AL">Alagoas</option>
+                                            <option value="AP">Amapá</option>
+                                            <option value="AM">Amazonas</option>
+                                            <option value="BA">Bahia</option>
+                                            <option value="CE">Ceará</option>
+                                            <option value="DF">Distrito Federal</option>
+                                            <option value="ES">Espírito Santo</option>
+                                            <option value="GO">Goiás</option>
+                                            <option value="MA">Maranhão</option>
+                                            <option value="MT">Mato Grosso</option>
+                                            <option value="MS">Mato Grosso do Sul</option>
+                                            <option value="MG">Minas Gerais</option>
+                                            <option value="PA">Pará</option>
+                                            <option value="PB">Paraíba</option>
+                                            <option value="PR">Paraná</option>
+                                            <option value="PE">Pernambuco</option>
+                                            <option value="PI">Piauí</option>
+                                            <option value="RJ">Rio de Janeiro</option>
+                                            <option value="RN">Rio Grande do Norte</option>
+                                            <option value="RS">Rio Grande do Sul</option>
+                                            <option value="RO">Rondônia</option>
+                                            <option value="RR">Roraima</option>
+                                            <option value="SC">Santa Catarina</option>
+                                            <option value="SP">São Paulo</option>
+                                            <option value="SE">Sergipe</option>
+                                            <option value="TO">Tocantins</option>
+                                            <option value="EX">Estrangeiro</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="form-row">
+                                <div class="form-group col-md-5 ml-3">
+                                    <label for="input_rua">Rua</label>
+                                    <input type="text" class="form-control" id="input_rua" name="rua" placeholder="ex: Rua XV Novembro" maxlength="50" value="@func.rua" required>
+                                </div>
+                                <div class="form-group col-md-2">
+                                    <label for="input_numero_residencia">Número</label>
+                                    <input type="text" class="form-control" id="input_numero_residencia" name="numero_residencia" placeholder="ex: 277" maxlength="4" value="@func.numero_residencia" required>
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="input_bairro">Bairro</label>
+                                    <input type="text" class="form-control" id="input_bairro" name="bairro" placeholder="ex: Centro" maxlength="50" value="@func.bairro" required>
+                                </div>
+                                <div class="form-group col-md-9 ml-3">
+                                    <label for="input_complemento">Complemento</label>
+                                    <input type="text" class="form-control" id="input_complemento" name="complemento" placeholder="ex: Apartamento/Casa" maxlength="50" value="@func.complemento" required>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <button type="submit" class="btn">Salvar</button>
+                </form>
+            </div>
+        </div>
+
+
+    </div>
+
+</div>

@@ -1,0 +1,320 @@
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\appsettings.Development.json
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\appsettings.json
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.exe
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.deps.json
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.runtimeconfig.json
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.runtimeconfig.dev.json
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ref\OfficeDesk.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.pdb
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.Views.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.Views.pdb
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Azure.Core.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Azure.Identity.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Humanizer.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\BAL.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\DAL.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\MetaDados.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\BAL.pdb
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\DAL.pdb
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\bin\Debug\net5.0\MetaDados.pdb
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.csproj.AssemblyReference.cache
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.AssemblyInfoInputs.cache
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.AssemblyInfo.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.csproj.CoreCompileInputs.cache
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.MvcApplicationPartsAssemblyInfo.cache
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.RazorAssemblyInfo.cache
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.RazorAssemblyInfo.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\staticwebassets\OfficeDesk.StaticWebAssets.Manifest.cache
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\staticwebassets\OfficeDesk.StaticWebAssets.xml
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\scopedcss\bundle\OfficeDesk.styles.css
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.TagHelpers.input.cache
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.TagHelpers.output.cache
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.RazorCoreGenerate.cache
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Cadastros\CadastroCliente.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Cadastros\CadastroFuncionario.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Cliente\SearchClient.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Extra\CadastroNaoOk.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Extra\CadastroOk.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Extra\ClienteDeletado.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Extra\ClienteNaoDeletado.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Home\Cliente.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Home\Perfil.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.RazorTargetAssemblyInfo.cache
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.RazorTargetAssemblyInfo.cs
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.Views.pdb
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.csproj.CopyComplete
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\ref\OfficeDesk.dll
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.pdb
+C:\OfficeDesk - Web\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.genruntimeconfig.cache
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\appsettings.Development.json
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\appsettings.json
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.exe
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.deps.json
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.runtimeconfig.json
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.runtimeconfig.dev.json
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ref\OfficeDesk.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.pdb
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.Views.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\OfficeDesk.Views.pdb
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Azure.Core.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Azure.Identity.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Humanizer.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\BAL.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\DAL.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\MetaDados.dll
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\BAL.pdb
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\DAL.pdb
+C:\OfficeDesk\OfficeDesk\bin\Debug\net5.0\MetaDados.pdb
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.csproj.AssemblyReference.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.AssemblyInfoInputs.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.AssemblyInfo.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.csproj.CoreCompileInputs.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.MvcApplicationPartsAssemblyInfo.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.RazorAssemblyInfo.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.RazorAssemblyInfo.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\staticwebassets\OfficeDesk.StaticWebAssets.Manifest.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\staticwebassets\OfficeDesk.StaticWebAssets.xml
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\scopedcss\bundle\OfficeDesk.styles.css
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.TagHelpers.input.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.TagHelpers.output.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.RazorCoreGenerate.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Cadastros\CadastroCliente.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Cadastros\CadastroFuncionario.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Cliente\SearchClient.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Extra\CadastroNaoOk.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Extra\CadastroOk.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Extra\ClienteDeletado.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Extra\ClienteNaoDeletado.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Home\Cliente.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Home\Perfil.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.RazorTargetAssemblyInfo.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.RazorTargetAssemblyInfo.cs
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.Views.pdb
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.dll
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\ref\OfficeDesk.dll
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.pdb
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.genruntimeconfig.cache
+C:\OfficeDesk\OfficeDesk\obj\Debug\net5.0\OfficeDesk.csproj.CopyComplete

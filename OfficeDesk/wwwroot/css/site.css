@@ -1,0 +1,330 @@
+﻿
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+#viewport {
+    padding-left: 250px;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#content {
+    text-align: center;
+    width: 100%;
+    position: relative;
+    padding: 10px;
+}
+
+.input-container .label {
+    text-align: left;
+    display: inline-block;
+    margin-bottom: 2em;
+}
+
+.input {
+    display: inline;
+    width: 100%;
+}
+
+.input-hidden-label {
+    height: 0;
+    visibility: hidden;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+
+.ui-w-80 {
+    width: 50px !important;
+    height: auto;
+}
+
+label.btn {
+    margin-bottom: 0;
+}
+
+
+.text-light {
+    color: #babbbc !important;
+}
+
+.card {
+    background-clip: padding-box;
+    box-shadow: 0 1px 4px rgba(24,28,33,0.012);
+}
+
+.row-bordered {
+    overflow: hidden;
+}
+
+.account-settings-fileinput {
+    position: absolute;
+    visibility: hidden;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+}
+
+.account-settings-links .list-group-item.active {
+    font-weight: bold !important;
+}
+
+html:not(.dark-style) .account-settings-links .list-group-item.active {
+    background: #876189;
+}
+
+.account-settings-multiselect ~ .select2-container {
+    width: 100% !important;
+}
+
+.light-style .account-settings-links .list-group-item {
+    padding: 0.85rem 1.5rem;
+    border-color: rgba(24, 28, 33, 0.03) !important;
+}
+
+    .light-style .account-settings-links .list-group-item.active {
+        color: #4e5155 !important;
+    }
+
+.material-style .account-settings-links .list-group-item {
+    padding: 0.85rem 1.5rem;
+    border-color: rgba(24, 28, 33, 0.03) !important;
+}
+
+    .material-style .account-settings-links .list-group-item.active {
+        color: #4e5155 !important;
+    }
+
+.dark-style .account-settings-links .list-group-item {
+    padding: 0.85rem 1.5rem;
+    border-color: #83248e !important;
+}
+
+    .dark-style .account-settings-links .list-group-item.active {
+        color: #fff !important;
+    }
+
+.light-style .account-settings-links .list-group-item.active {
+    color: #4E5155 !important;
+}
+
+.light-style .account-settings-links .list-group-item {
+    padding: 0.85rem 1.5rem;
+    border-color: rgba(24,28,33,0.03) !important;
+}
+/*-------------------------------------------------------------*/
+
+
+.bg-light-gray {
+    background-color: #f7f7f7;
+}
+
+.table-bordered thead td, .table-bordered thead th {
+    border-bottom-width: 2px;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #dee2e6;
+}
+
+
+.padding-15px-lr {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.padding-5px-tb {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.margin-10px-bottom {
+    margin-bottom: 10px;
+}
+
+.border-radius-5 {
+    border-radius: 5px;
+}
+
+.margin-10px-top {
+    margin-top: 10px;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #dee2e6;
+}
+
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+/*--------LOGIN---------*/
+.main-content {
+    width: 50%;
+    border-radius: 20px;
+    box-shadow: 0 5px 5px rgba(0,0,0,.4);
+    margin: 5em auto;
+    display: flex;
+}
+
+.company__info {
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 12%, rgba(2,2,22,1) 51%, rgba(19,93,98,1) 100%);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+}
+h1 {
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px;
+}
+.h1-func {
+    text-align: center;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px;
+    color: #fff;
+}
+.fa-android {
+    font-size: 3em;
+}
+
+@media screen and (max-width: 640px) {
+    .main-content {
+        width: 90%;
+    }
+
+    .company__info {
+        display: none;
+    }
+
+    .login_form {
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+}
+
+@media screen and (min-width: 642px) and (max-width:800px) {
+    .main-content {
+        width: 70%;
+    }
+}
+
+.row .h2-logo {
+    color: rgba(19,93,98,1);
+  
+}
+
+.login_form {
+    background-color: #fff;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+form {
+    padding: 0 2em;
+}
+
+.form__input {
+    width: 100%;
+    border: 0px solid transparent;
+    border-radius: 0;
+    border-bottom: 1px solid #aaa;
+    padding: 1em .5em .5em;
+    padding-left: 2em;
+    outline: none;
+    margin: 1.5em auto;
+    transition: all .5s ease;
+}
+
+    .form__input:focus {
+        border-bottom-color: #4c005b;
+        box-shadow: 0 0 5px rgba(0,80,80,.4);
+        border-radius: 4px;
+    }
+
+.btn {
+    transition: all .5s ease;
+    border-radius: 30px;
+    color: #07043e;
+    font-weight: 600;
+    background-color: #fff;
+    border: 1px solid #07043e;
+    margin:5px;
+
+}
+
+    .btn:hover, .btn:focus {
+        background-color: #07043e;
+        color: #fff;
+    }
+
+.btn2 {
+    transition: all .5s ease;
+    border-radius: 30px;
+    color: #07043e;
+    font-weight: 600;
+    background-color: #fff;
+    border: 1px solid #07043e;
+    margin:0px;
+}
+
+    .btn:hover, .btn:focus {
+        background-color: #07043e;
+        color: #fff;
+    }
+.container-logo {
+    display: contents;
+    align-content: center;
+    margin: 50px 200px 50px 200px;
+    width: 1500px;
+}
+
+.body-logo {
+    float: none;
+    margin: 0 auto;
+    position: center;
+    background-color: #3d7e83;
+}
+
+.html-login {
+    background-color: #3d7e83;
+}
+

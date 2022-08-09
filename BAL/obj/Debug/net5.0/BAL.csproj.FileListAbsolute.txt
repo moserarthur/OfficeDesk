@@ -1,0 +1,269 @@
+I:\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+I:\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+I:\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+I:\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+I:\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+I:\BAL\bin\Debug\net5.0\BAL.deps.json
+I:\BAL\bin\Debug\net5.0\BAL.dll
+I:\BAL\bin\Debug\net5.0\ref\BAL.dll
+I:\BAL\bin\Debug\net5.0\BAL.pdb
+I:\BAL\bin\Debug\net5.0\DAL.dll
+I:\BAL\bin\Debug\net5.0\MetaDados.dll
+I:\BAL\bin\Debug\net5.0\DAL.pdb
+I:\BAL\bin\Debug\net5.0\MetaDados.pdb
+I:\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+I:\BAL\obj\Debug\net5.0\BAL.dll
+I:\BAL\obj\Debug\net5.0\ref\BAL.dll
+I:\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\BAL\obj\Debug\net5.0\BAL.pdb
+D:\BAL\bin\Debug\net5.0\BAL.deps.json
+D:\BAL\bin\Debug\net5.0\BAL.dll
+D:\BAL\bin\Debug\net5.0\ref\BAL.dll
+D:\BAL\bin\Debug\net5.0\BAL.pdb
+D:\BAL\bin\Debug\net5.0\DAL.dll
+D:\BAL\bin\Debug\net5.0\MetaDados.dll
+D:\BAL\bin\Debug\net5.0\DAL.pdb
+D:\BAL\bin\Debug\net5.0\MetaDados.pdb
+D:\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+D:\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+D:\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+D:\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+D:\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+D:\BAL\obj\Debug\net5.0\BAL.dll
+D:\BAL\obj\Debug\net5.0\ref\BAL.dll
+D:\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\bin\Debug\net5.0\DAL.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\BAL\obj\Debug\net5.0\BAL.pdb
+H:\BAL\bin\Debug\net5.0\BAL.deps.json
+H:\BAL\bin\Debug\net5.0\BAL.dll
+H:\BAL\bin\Debug\net5.0\ref\BAL.dll
+H:\BAL\bin\Debug\net5.0\BAL.pdb
+H:\BAL\bin\Debug\net5.0\DAL.dll
+H:\BAL\bin\Debug\net5.0\MetaDados.dll
+H:\BAL\bin\Debug\net5.0\DAL.pdb
+H:\BAL\bin\Debug\net5.0\MetaDados.pdb
+H:\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+H:\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+H:\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+H:\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+H:\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+H:\BAL\obj\Debug\net5.0\BAL.dll
+H:\BAL\obj\Debug\net5.0\ref\BAL.dll
+H:\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\arthur.silva6\Desktop\Original\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\arthur.silva6\Desktop\Original\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\arthur.silva6\Desktop\Original\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\arthur.silva6\Desktop\Original\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\arthur.silva6\Desktop\Original\BAL\bin\Debug\net5.0\DAL.dll
+C:\Users\arthur.silva6\Desktop\Original\BAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Original\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\arthur.silva6\Desktop\Original\BAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\arthur.silva6\Desktop\Original\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\arthur.silva6\Desktop\Original\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.silva6\Desktop\Original\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\arthur.silva6\Desktop\Original\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\arthur.silva6\Desktop\Original\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\arthur.silva6\Desktop\Original\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+C:\Users\arthur.silva6\Desktop\Original\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\arthur.silva6\Desktop\Original\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\arthur.silva6\Desktop\Original\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\bin\Debug\net5.0\DAL.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+D:\NewSystem\BAL\bin\Debug\net5.0\BAL.deps.json
+D:\NewSystem\BAL\bin\Debug\net5.0\BAL.dll
+D:\NewSystem\BAL\bin\Debug\net5.0\ref\BAL.dll
+D:\NewSystem\BAL\bin\Debug\net5.0\BAL.pdb
+D:\NewSystem\BAL\bin\Debug\net5.0\DAL.dll
+D:\NewSystem\BAL\bin\Debug\net5.0\MetaDados.dll
+D:\NewSystem\BAL\bin\Debug\net5.0\DAL.pdb
+D:\NewSystem\BAL\bin\Debug\net5.0\MetaDados.pdb
+D:\NewSystem\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+D:\NewSystem\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewSystem\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+D:\NewSystem\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+D:\NewSystem\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+D:\NewSystem\BAL\obj\Debug\net5.0\BAL.dll
+D:\NewSystem\BAL\obj\Debug\net5.0\ref\BAL.dll
+D:\NewSystem\BAL\obj\Debug\net5.0\BAL.pdb
+J:\NewSystem\BAL\bin\Debug\net5.0\BAL.deps.json
+J:\NewSystem\BAL\bin\Debug\net5.0\BAL.dll
+J:\NewSystem\BAL\bin\Debug\net5.0\ref\BAL.dll
+J:\NewSystem\BAL\bin\Debug\net5.0\BAL.pdb
+J:\NewSystem\BAL\bin\Debug\net5.0\DAL.dll
+J:\NewSystem\BAL\bin\Debug\net5.0\MetaDados.dll
+J:\NewSystem\BAL\bin\Debug\net5.0\DAL.pdb
+J:\NewSystem\BAL\bin\Debug\net5.0\MetaDados.pdb
+J:\NewSystem\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+J:\NewSystem\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+J:\NewSystem\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+J:\NewSystem\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+J:\NewSystem\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+J:\NewSystem\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+J:\NewSystem\BAL\obj\Debug\net5.0\BAL.dll
+J:\NewSystem\BAL\obj\Debug\net5.0\ref\BAL.dll
+J:\NewSystem\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\Raque\Desktop\Arquivo Vet\BAL\obj\Debug\net5.0\BAL.pdb
+J:\BAL\bin\Debug\net5.0\BAL.deps.json
+J:\BAL\bin\Debug\net5.0\BAL.dll
+J:\BAL\bin\Debug\net5.0\ref\BAL.dll
+J:\BAL\bin\Debug\net5.0\BAL.pdb
+J:\BAL\bin\Debug\net5.0\DAL.dll
+J:\BAL\bin\Debug\net5.0\MetaDados.dll
+J:\BAL\bin\Debug\net5.0\DAL.pdb
+J:\BAL\bin\Debug\net5.0\MetaDados.pdb
+J:\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+J:\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+J:\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+J:\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+J:\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+J:\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+J:\BAL\obj\Debug\net5.0\BAL.dll
+J:\BAL\obj\Debug\net5.0\ref\BAL.dll
+J:\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\bin\Debug\net5.0\DAL.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\Raque\Desktop\Office Soft - Official\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\BAL\obj\Debug\net5.0\BAL.pdb
+C:\OfficeDesk - Web\OfficeDesk\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\OfficeDesk - Web\OfficeDesk\BAL\bin\Debug\net5.0\BAL.dll
+C:\OfficeDesk - Web\OfficeDesk\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\OfficeDesk - Web\OfficeDesk\BAL\bin\Debug\net5.0\BAL.pdb
+C:\OfficeDesk - Web\OfficeDesk\BAL\bin\Debug\net5.0\DAL.dll
+C:\OfficeDesk - Web\OfficeDesk\BAL\bin\Debug\net5.0\MetaDados.dll
+C:\OfficeDesk - Web\OfficeDesk\BAL\bin\Debug\net5.0\DAL.pdb
+C:\OfficeDesk - Web\OfficeDesk\BAL\bin\Debug\net5.0\MetaDados.pdb
+C:\OfficeDesk - Web\OfficeDesk\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\OfficeDesk - Web\OfficeDesk\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\OfficeDesk - Web\OfficeDesk\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\OfficeDesk - Web\OfficeDesk\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\OfficeDesk - Web\OfficeDesk\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\OfficeDesk - Web\OfficeDesk\BAL\obj\Debug\net5.0\BAL.dll
+C:\OfficeDesk - Web\OfficeDesk\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\OfficeDesk - Web\OfficeDesk\BAL\obj\Debug\net5.0\BAL.pdb

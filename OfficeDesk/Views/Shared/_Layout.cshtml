@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br, en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - OfficeDesk</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <link rel="stylesheet" href="~/css/sidebar.css" />
+    <link rel="stylesheet" href="~/css/topbar.css" />           <!--TopBar css e SideBar css-->
+    <link rel="stylesheet" href="~/Icons/icon.css" />          <!--TopBar css e SideBar css-->
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"> <!--Icone-->
+    <!--z-iNDEX RESPONSAVEL POR DEFINIR COM A ORDEM (ARRASTAR PRA FRENTE)-->
+    <!--fIXED PARA TOPBAR E SIDEBAR-->
+
+</head>
+<body>
+
+    <div class="navbar sticky-top">
+        <a asp-area="" asp-controller="Home" asp-action="Index">
+            <div class="nav-logo"><h1>Logo</h1></div>
+        </a>
+
+        <table>
+            <tr>
+                <td><img src="~/Icons/BootIcon/person-circle.svg" style="" alt="" class="d-block ui-w-80 avatar text-white">    </td>
+                <td>
+
+                    <h1 class="h1-func">Bem Vindo: @User.Identity.Name</h1>
+
+                </td>
+                <td>
+
+                    <a class="nav-link" href="logout">
+                        <img class=" fa bi fa-2x" src="~/Icons/BootIcon/box-arrow-right.svg" />
+                    </a>
+
+                </td>
+            </tr>
+        </table>
+
+    </div>
+
+
+    <div id="viewport">
+
+        <nav class="sidebar">
+            <ul>
+                @if (Convert.ToInt32(@User.Claims.First().Value) == 2)
+                {
+
+                    <li class="has-subnav">
+                        <a class="nav-link nav-item text-white" asp-area="" asp-controller="Cadastros" asp-action="CadastroFuncionario">
+                            <img class=" fa bi fa-2x" src="~/Icons/BootIcon/briefcase-fill.svg" />
+                            <span class="nav-text text-uppercase">
+                                Cadastrar Funcionário
+                            </span>
+                        </a>
+                        <hr class="hrsidebar" />
+                    </li>
+                }
+                <li class="has-subnav">
+                    <a class="nav-link text-white text-uppercase" asp-area="" asp-controller="Cadastros" asp-action="CadastroCliente">
+                        <img class=" fa bi fa-2x" src="~/Icons/BootIcon/person-plus-fill.svg" />
+                        <span class="nav-text">
+                            Cadastrar Cliente
+                        </span>
+                    </a>
+                    <hr class="hrsidebar" />
+                </li>
+                <li class="has-subnav">
+                    <a class="nav-link text-white text-uppercase" asp-area="" asp-controller="Home" asp-action="Cliente">
+                        <img class="fa bi fa-2x" src="~/Icons/BootIcon/search.svg" />
+                        <span class="nav-text">
+                            Lista de Clientes
+                        </span>
+                    </a>
+                    <hr class="hrsidebar" />
+                </li>
+                <li class="has-subnav">
+                    <a class="nav-link text-white text-uppercase" asp-area="" asp-controller="Home" asp-action="Perfil">
+                        <img class=" fa bi fa-2x" src="~/Icons/BootIcon/person-circle.svg" />
+                        <span class="nav-text">
+                            Perfil
+                        </span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+        @if (TempData["erro"] != null)
+        {
+            <div class="alert alert-danger col-md-10" style="margin-left: 140px; text-align: center">@TempData["erro"]</div>}
+
+        @if (TempData["executed"] != null)
+        {
+            <div class="alert alert-info col-md-10" style="margin-left: 140px; text-align: center">@TempData["executed"]</div>}
+        <div id="content">
+            <div class="container-fluid">
+                @RenderBody()
+            </div>
+        </div>
+
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+    <script type="text/javascript" src="~/lib/jQuery-Mask-Plugin-master/src/jquery.mask.js"></script>
+    <script>$('#input_cpf').mask('000.000.000-00');</script>
+    <script>$('#input_tel_1').mask('(00)00000-0000');</script>
+    <script>$('#input_tel_2').mask('(00)00000-0000');</script>
+    <script>$('#input_cep').mask('00000-000', { placeholder: "" });</script>
+    <script>$('#input_numero_residencia').mask('0000');</script>
+    <script>$('#input_altura').mask('000');</script>
+    <script>$('#input_comprimento').mask('000');</script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+
+</body>
+</html>

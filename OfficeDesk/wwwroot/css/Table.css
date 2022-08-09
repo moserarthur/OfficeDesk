@@ -1,0 +1,252 @@
+﻿* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.collapsible {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+    .active, .collapsible:hover {
+        background-color: #c1c1c1;
+    }
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+
+
+body {
+    font-family: Helvetica;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px;
+}
+.font-H {
+    font-family: Helvetica;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: 1px;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 30px 0;
+}
+
+/* Table Styles */
+
+.table-wrapper {
+    margin: 10px 70px 70px;
+    box-shadow: 0px 35px 50px rgba( 0, 0, 0, 0.2 );
+}
+
+.table-wrapper-no-shadow {
+    margin: 10px 70px 70px;
+}
+
+.top-rad {
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+
+.fl-table {
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: normal;
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    white-space: nowrap;
+    background-color: white;
+}
+
+    .fl-table td, .fl-table th {
+        text-align: center;
+        padding: 8px;
+    }
+
+    .fl-table td {
+        border-right: 1px solid #f8f8f8;
+        font-size: 16px;
+    }
+
+    .fl-table thead th {
+        color: #ffffff;
+        background: #06032f;
+    }
+
+.th-rad {
+    color: #ffffff;
+    background: #06032f;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+/* Responsive */
+
+@media (max-width: 767px) {
+    .fl-table {
+        display: block;
+        width: 100%;
+    }
+
+    .table-wrapper:before {
+        content: "Scroll horizontally >";
+        display: block;
+        text-align: right;
+        font-size: 11px;
+        color: white;
+        padding: 0 0 10px;
+    }
+
+    .fl-table thead, .fl-table tbody, .fl-table thead th {
+        display: block;
+    }
+
+        .fl-table thead th:last-child {
+            border-bottom: none;
+        }
+
+    .fl-table thead {
+        float: left;
+    }
+
+    .fl-table tbody {
+        width: auto;
+        position: relative;
+        overflow-x: auto;
+    }
+
+    .fl-table td, .fl-table th {
+        padding: 20px .625em .625em .625em;
+        height: 60px;
+        vertical-align: middle;
+        box-sizing: border-box;
+        overflow-x: hidden;
+        overflow-y: auto;
+        width: 120px;
+        font-size: 13px;
+        text-overflow: ellipsis;
+    }
+
+    .fl-table thead th {
+        text-align: left;
+        border-bottom: 1px solid #f7f7f9;
+    }
+
+    .fl-table tbody tr {
+        display: table-cell;
+    }
+
+
+    .fl-table tbody td {
+        display: block;
+        text-align: center;
+    }
+}
+
+
+/* Add animation to "page content" */
+.animate-bottom {
+    position: relative;
+    -webkit-animation-name: animatebottom;
+    -webkit-animation-duration: 1s;
+    animation-name: animatebottom;
+    animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+    from {
+        bottom: -100px;
+        opacity: 0
+    }
+
+    to {
+        bottom: 0px;
+        opacity: 1
+    }
+}
+
+@keyframes animatebottom {
+    from {
+        bottom: -100px;
+        opacity: 0
+    }
+
+    to {
+        bottom: 0;
+        opacity: 1
+    }
+}
+
+#myDiv {
+    display: none;
+    text-align: center;
+}
+
+
+.btn {
+    transition: all .5s ease;
+    border-radius: 30px;
+    color: #07043e;
+    font-weight: 600;
+    background-color: #fff;
+    border: 1px solid #07043e;
+  
+}
+
+    .btn:hover, .btn:focus {
+        background-color: #07043e;
+        color: #fff;
+    }
+
+
+.btn-delete {
+    transition: all .5s ease;
+    border-radius: 30px;
+    font-weight: 600;
+    background-color: #fff;
+    border: 2px solid #f60000;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+}
+
+    .btn-delete:hover, .btn-delete:focus {
+        background-color: #f60000;
+        color: #fff;
+    }
+
+.btn-edit {
+    transition: all .5s ease;
+    border-radius: 30px;
+    font-weight: 600;
+    background-color: #fff;
+    border: 2px solid #f49b29;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+}
+
+    .btn-edit:hover, .btn-edit:focus {
+        background-color: #f86c09;
+        color: #fff;
+    }

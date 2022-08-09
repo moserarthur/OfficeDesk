@@ -1,0 +1,155 @@
+I:\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+I:\MetaDados\bin\Debug\net5.0\MetaDados.dll
+I:\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+I:\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+I:\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+I:\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+I:\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+I:\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+I:\MetaDados\obj\Debug\net5.0\MetaDados.dll
+I:\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+I:\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+I:\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\obj\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+D:\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+D:\MetaDados\bin\Debug\net5.0\MetaDados.dll
+D:\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+D:\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+D:\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+D:\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+D:\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+D:\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+D:\MetaDados\obj\Debug\net5.0\MetaDados.dll
+D:\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+D:\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\bin\Debug\net5.0\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\obj\Debug\net5.0\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+H:\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+H:\MetaDados\bin\Debug\net5.0\MetaDados.dll
+H:\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+H:\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+H:\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+H:\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+H:\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+H:\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+H:\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+H:\MetaDados\obj\Debug\net5.0\MetaDados.dll
+H:\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+H:\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\bin\Debug\net5.0\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\obj\Debug\net5.0\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Original\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\bin\Debug\net5.0\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\obj\Debug\net5.0\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+D:\NewSystem\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+D:\NewSystem\MetaDados\bin\Debug\net5.0\MetaDados.dll
+D:\NewSystem\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+D:\NewSystem\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+D:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+D:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+D:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+D:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+D:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.dll
+D:\NewSystem\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+D:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+J:\NewSystem\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+J:\NewSystem\MetaDados\bin\Debug\net5.0\MetaDados.dll
+J:\NewSystem\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+J:\NewSystem\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+J:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+J:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+J:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+J:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+J:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+J:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.dll
+J:\NewSystem\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+J:\NewSystem\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+J:\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+J:\MetaDados\bin\Debug\net5.0\MetaDados.dll
+J:\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+J:\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+J:\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+J:\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+J:\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+J:\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+J:\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+J:\MetaDados\obj\Debug\net5.0\MetaDados.dll
+J:\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+J:\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\bin\Debug\net5.0\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\obj\Debug\net5.0\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\obj\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\MetaDados\obj\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\bin\Debug\net5.0\MetaDados.deps.json
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\bin\Debug\net5.0\ref\MetaDados.dll
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\obj\Debug\net5.0\MetaDados.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\obj\Debug\net5.0\MetaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\obj\Debug\net5.0\MetaDados.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\obj\Debug\net5.0\MetaDados.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\obj\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\obj\Debug\net5.0\ref\MetaDados.dll
+C:\Users\Raque\Desktop\Office Soft - Official\MetaDados\obj\Debug\net5.0\MetaDados.pdb

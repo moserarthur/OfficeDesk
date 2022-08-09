@@ -1,0 +1,14 @@
+﻿
+.bi {
+
+    filter:invert(90%);
+}
+
+
+.hrsidebar {
+    width: 65px;
+    margin-left: 0px;
+    color: white;
+    background-color: #691cd8;
+}
+

@@ -1,0 +1,17 @@
+﻿@{
+    var controller = Context.Request.RouteValues["Controller"].ToString();
+
+    string layout = "";
+
+    if (controller == "Login")
+    {
+        layout = "Login";
+    }
+    else
+    {
+        layout = "_Layout";
+    }
+
+    Layout = layout;
+
+}

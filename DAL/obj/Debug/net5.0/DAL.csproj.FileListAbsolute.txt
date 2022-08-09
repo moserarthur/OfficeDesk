@@ -1,0 +1,220 @@
+I:\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+I:\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+I:\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+I:\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+I:\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+I:\DAL\bin\Debug\net5.0\DAL.deps.json
+I:\DAL\bin\Debug\net5.0\DAL.dll
+I:\DAL\bin\Debug\net5.0\ref\DAL.dll
+I:\DAL\bin\Debug\net5.0\DAL.pdb
+I:\DAL\bin\Debug\net5.0\MetaDados.dll
+I:\DAL\bin\Debug\net5.0\MetaDados.pdb
+I:\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+I:\DAL\obj\Debug\net5.0\DAL.dll
+I:\DAL\obj\Debug\net5.0\ref\DAL.dll
+I:\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Raque\Desktop\Pen drive Carlos\DAL\obj\Debug\net5.0\DAL.pdb
+D:\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\DAL\bin\Debug\net5.0\DAL.dll
+D:\DAL\bin\Debug\net5.0\ref\DAL.dll
+D:\DAL\bin\Debug\net5.0\DAL.pdb
+D:\DAL\bin\Debug\net5.0\MetaDados.dll
+D:\DAL\bin\Debug\net5.0\MetaDados.pdb
+D:\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+D:\DAL\obj\Debug\net5.0\DAL.dll
+D:\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\arthur.silva6\Desktop\Arthur Branch - VetOnTrack\DAL\obj\Debug\net5.0\DAL.pdb
+H:\DAL\bin\Debug\net5.0\DAL.deps.json
+H:\DAL\bin\Debug\net5.0\DAL.dll
+H:\DAL\bin\Debug\net5.0\ref\DAL.dll
+H:\DAL\bin\Debug\net5.0\DAL.pdb
+H:\DAL\bin\Debug\net5.0\MetaDados.dll
+H:\DAL\bin\Debug\net5.0\MetaDados.pdb
+H:\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+H:\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+H:\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+H:\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+H:\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+H:\DAL\obj\Debug\net5.0\DAL.dll
+H:\DAL\obj\Debug\net5.0\ref\DAL.dll
+H:\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\arthur.silva6\Desktop\Original\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\arthur.silva6\Desktop\Original\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\arthur.silva6\Desktop\Original\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\arthur.silva6\Desktop\Original\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\arthur.silva6\Desktop\Original\DAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\arthur.silva6\Desktop\Original\DAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\arthur.silva6\Desktop\Original\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\arthur.silva6\Desktop\Original\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.silva6\Desktop\Original\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\arthur.silva6\Desktop\Original\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\arthur.silva6\Desktop\Original\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\arthur.silva6\Desktop\Original\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\arthur.silva6\Desktop\Original\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\arthur.silva6\Desktop\Original\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\arthur.silva6\Desktop\Original\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\rafael.pereira2\Desktop\pendrive\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+D:\NewSystem\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\NewSystem\DAL\bin\Debug\net5.0\DAL.dll
+D:\NewSystem\DAL\bin\Debug\net5.0\ref\DAL.dll
+D:\NewSystem\DAL\bin\Debug\net5.0\DAL.pdb
+D:\NewSystem\DAL\bin\Debug\net5.0\MetaDados.dll
+D:\NewSystem\DAL\bin\Debug\net5.0\MetaDados.pdb
+D:\NewSystem\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\NewSystem\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewSystem\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\NewSystem\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\NewSystem\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\NewSystem\DAL\obj\Debug\net5.0\DAL.dll
+D:\NewSystem\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\NewSystem\DAL\obj\Debug\net5.0\DAL.pdb
+J:\NewSystem\DAL\bin\Debug\net5.0\DAL.deps.json
+J:\NewSystem\DAL\bin\Debug\net5.0\DAL.dll
+J:\NewSystem\DAL\bin\Debug\net5.0\ref\DAL.dll
+J:\NewSystem\DAL\bin\Debug\net5.0\DAL.pdb
+J:\NewSystem\DAL\bin\Debug\net5.0\MetaDados.dll
+J:\NewSystem\DAL\bin\Debug\net5.0\MetaDados.pdb
+J:\NewSystem\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+J:\NewSystem\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+J:\NewSystem\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+J:\NewSystem\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+J:\NewSystem\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+J:\NewSystem\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+J:\NewSystem\DAL\obj\Debug\net5.0\DAL.dll
+J:\NewSystem\DAL\obj\Debug\net5.0\ref\DAL.dll
+J:\NewSystem\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Raque\Desktop\Arquivo Vet\DAL\obj\Debug\net5.0\DAL.pdb
+J:\DAL\bin\Debug\net5.0\DAL.deps.json
+J:\DAL\bin\Debug\net5.0\DAL.dll
+J:\DAL\bin\Debug\net5.0\ref\DAL.dll
+J:\DAL\bin\Debug\net5.0\DAL.pdb
+J:\DAL\bin\Debug\net5.0\MetaDados.dll
+J:\DAL\bin\Debug\net5.0\MetaDados.pdb
+J:\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+J:\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+J:\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+J:\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+J:\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+J:\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+J:\DAL\obj\Debug\net5.0\DAL.dll
+J:\DAL\obj\Debug\net5.0\ref\DAL.dll
+J:\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\rafael.pereira2\Desktop\vet arthur 15-10\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Raque\Desktop\Vet OnTrack - Official\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Office Soft - Official\DAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\bin\Debug\net5.0\MetaDados.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\bin\Debug\net5.0\MetaDados.pdb
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Raque\Desktop\Office Soft - Official - Copia\DAL\obj\Debug\net5.0\DAL.pdb

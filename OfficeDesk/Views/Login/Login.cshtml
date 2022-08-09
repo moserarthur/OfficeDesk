@@ -1,0 +1,67 @@
+﻿@{ Layout = null;
+    ViewData["Title"] = "Login"; }
+
+<!DOCTYPE html>
+<html lang="pt-br, en" class="html-login">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - OfficeDesk</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="body-logo">
+
+    @{IgnoreBody();}
+
+    @if (TempData["erro"] != null)
+    {
+<div class="alert alert-info">@TempData["erro"]</div>}
+    <!-- Main Content -->
+
+    <div class="container-logo">
+        <div class="row main-content bg-success text-center">
+            <div class="col-md-4 text-center company__info">
+                <span class="company__logo"><span class="fa fa-android"></span></span>
+                <div>
+                    <h1>Logo</h1>
+                </div>
+            </div>
+            <div class="col-md-8 col-xs-12 col-sm-12 login_form ">
+                <div class="container-fluid">
+
+                    <h1>LOGIN</h1>
+                    <hr />
+
+                    <!----Login---->
+
+                    <form action="/login/authenticate" method="post" class="needs-validation" novalidate>
+
+                        <input type="email" name="email" id="input_email" class="form-control" placeholder="E-mail" required>
+                        <div class="invalid-feedback">
+                            <!-- Mensagem em caso de campo inválido-->
+                            Email inválido!
+                        </div>
+                        <br />
+                        <!-- <span class="fa fa-lock"></span> -->
+                        <input type="password" name="senha" id="input_senha" class="form-control" placeholder="Senha" minlength="8" size="8" required>
+                        <div class="invalid-feedback">
+                            <!-- Mensagem em caso de campo inválido-->
+                            Senha inválida!
+                        </div>
+
+
+                        <input type="submit" value="Entrar" class="btn">
+
+                    </form>
+                    <script src="~/js/site.js" asp-append-version="true"></script>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
